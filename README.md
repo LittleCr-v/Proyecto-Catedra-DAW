@@ -1,4 +1,10 @@
 # Proyecto-Catedra-DAW
+
+Integrantes:
+- Melvin Alexander Inglés Guzmán IG220972
+- Victor Manuel Cerritos Berrios CB180815
+- Cristian Gerardo Ventura Rendón VR221500
+
 Proyecto Catedra DAW Bodeguita ST
 Este es el repositorio para el proyecto de la Cátedra Bodeguita ST. Aquí encontrarás enlaces importantes:
 
